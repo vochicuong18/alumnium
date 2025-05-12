@@ -86,7 +86,6 @@ if __name__ == "__main__":
 
     auto.ai(f"Nhập username: 'admin@gmail.com'. Lưu ý trước khi nhập phải clear text", page_source)
     auto.ai(f"Nhập password: '123456'. Lưu ý trước khi nhập phải clear text", page_source)
-    auto.ai(f"Click bỏ chọn checkbox Remember me", page_source)
     auto.ai(f"Click vào nút Continue", page_source)
     time.sleep(5)
     driver.quit()
