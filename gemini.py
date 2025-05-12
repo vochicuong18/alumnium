@@ -4,7 +4,7 @@ import time
 import re
 import google.generativeai as genai
 
-google_api_key = "AIzaSyD6JXoz3D--n75o0GMCAhK7iNs6-LHsd2A"
+google_api_key = "AIzaSyBdH5XPPt8hsRl37iWpdIxRe47N4mgNz7g"
 
 # === Class AutoAI === #
 class AutoAI:
